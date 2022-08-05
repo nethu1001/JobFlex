@@ -26,7 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="53dp"
             android:layout_weight="1"
-            app:srcCompat="@drawable/jflogo" />
+            app:srcCompat="@drawable/logo" />
 
     </LinearLayout>
 
@@ -62,7 +62,7 @@
             <TextView
                 android:id="@+id/tv_req_job_title"
                 android:layout_width="301dp"
-                android:layout_height="34dp"
+                android:layout_height="50dp"
                 android:fontFamily="@font/segoe_bold"
                 android:paddingStart="15dp"
                 android:paddingLeft="10dp"
