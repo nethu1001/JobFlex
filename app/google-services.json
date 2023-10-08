@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "914816323458",
+    "firebase_url": "https://job-flex-45696-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "job-flex-45696",
+    "storage_bucket": "job-flex-45696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914816323458:android:c59bb1b7d1162b5360899b",
+        "android_client_info": {
+          "package_name": "com.example.mysaved"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914816323458-t2gruk68ibl4p2pbbh3d3p3cb735m3dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKthjxnKOGVEVALk1xadrvOmCg80qS1CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914816323458-t2gruk68ibl4p2pbbh3d3p3cb735m3dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
